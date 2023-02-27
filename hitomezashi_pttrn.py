@@ -9,3 +9,6 @@ source: https://www.youtube.com/watch?v=JbfhzlMk2eY
 
 """
 
+# Start of the file! Woo here we go.
+
+import pygame
